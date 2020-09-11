@@ -1,0 +1,12 @@
+
+1) Explain REST and RESTful
+
+2) Explain the architectural style for the creation of a web API (client server communication, formatting language, etc.)
+
+3) Explain HTTP requests types when used with RESTful web (GET, PUT, POST, etc.)
+
+4) Explain the difference between stateless and stateful protocol. Which type of protocol is HTTP ?
+
+5) Explain the difference between a GET and a POST (like how are sent the parameters)
+
+6) You can’t work out how to solve a coding problem. What do you do to find the answer?
